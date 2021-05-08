@@ -7,6 +7,8 @@
   
   >**Bilgisayarınızda kurulu bir sanal makina olmalıdır. (Android Studio Virtual Device vs..)
   
+  >**Google Map verilerini kullabilmek için https://console.cloud.google.com/google/maps-apis adresinden abi key alınmalıdır. Ana dizinde "epikey.js" dosyasına eklenmelidir
+   
 ## Proje
 
 Bu projede bulut bilişim ve google map api kullanarak android platformunda bir uygulama geliştirilmiştir. 
