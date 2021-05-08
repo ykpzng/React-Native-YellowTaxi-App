@@ -4,7 +4,7 @@
     "slug": "expo-react-native",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/taxi.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
@@ -20,10 +20,13 @@
       "supportsTablet": true
     },
     "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
-      }
+      "package": "com.exponative.yellowtaxi",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyCcBzfOEF1eTT21qWRyjgvd8BL5519l518"
+        }
+      },
+      "versionCode": 1
     },
     "web": {
       "favicon": "./assets/favicon.png"
