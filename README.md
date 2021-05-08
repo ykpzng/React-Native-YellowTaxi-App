@@ -9,7 +9,7 @@
   
   >**Google Map verilerini kullanabilmek için https://console.cloud.google.com/google/maps-apis adresinden **api key** alınmalıdır. Ana dizinde "epikey.js" dosyasına eklenmelidir. Aşağıdaki apiler de aktif hale getirilmelidir.
   
-  >**Server olarak **MongoDb Realm** kullanıldığı için realm fonksiyonları(mongoDb sorguları) realm kısmında yazıldı. front-end kısmında sadece göstermek için **real.js** altına eklenmiştir. 
+  >**Server olarak **MongoDb Realm** kullanıldığı için realm fonksiyonları(mongoDb sorguları) realm kısmında yazıldı. front-end kısmında sadece burda göstermek için **realm.js** altına eklenmiştir. 
  
  ### Kullanıllan Google Apis
   - **Maps SDK for Android**
