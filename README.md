@@ -23,7 +23,8 @@ Projede kullanılacak olan data **New York City Taxi** gezinge verileridir. Bu v
 
 - **Dosya ismi 2 :** taxi+ zone lookup.csv
 
-##Database
+## Database
+
 MongoDb ye Json formatında iki adet colection ekleniyor..
 
 
