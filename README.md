@@ -23,5 +23,10 @@ Projede kullanılacak olan data **New York City Taxi** gezinge verileridir. Bu v
 
 - **Dosya ismi 2 :** taxi+ zone lookup.csv
 
+##Database
+MongoDb ye Json formatında iki adet colection ekleniyor..
+
+
+![data](https://user-images.githubusercontent.com/48925129/117534592-c6fbaf00-affa-11eb-8f8d-95702a8216ed.png)
 
 
