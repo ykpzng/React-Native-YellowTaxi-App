@@ -17,11 +17,11 @@ Projede kullanılacak olan data **New York City Taxi** gezinge verileridir. Bu v
 
 >Verinin indirileceği adres ve dosya adları aşağıdadır.
 
-**- Dosya adresi :** https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+** - Dosya adresi : ** https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
-**- Dosya ismi 1 :** yellow tripdata 2020-12.csv
+** - Dosya ismi 1 : ** yellow tripdata 2020-12.csv
 
-**- Dosya ismi 2 :** taxi+ zone lookup.csv
+** - Dosya ismi 2 : ** taxi+ zone lookup.csv
 
 
 
