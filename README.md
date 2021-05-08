@@ -59,10 +59,11 @@ MongoDb ye Json formatında iki adet colection ekleniyor..
 - 
 - **Tip-3 :**Seçilen bir tarihte en uzun seyahatin harita üzerinde yolunu çizer. Başlangıç ve bitiş konumlarını farklı renklerde marker ile gösterir ve konum adını yazar.
 
-![resim1](https://user-images.githubusercontent.com/48925129/117534691-3b365280-affb-11eb-8399-bed25af6f855.png)
-![resim-2](https://user-images.githubusercontent.com/48925129/117534696-40939d00-affb-11eb-8a01-adaf497c215b.png)
-![resim3](https://user-images.githubusercontent.com/48925129/117534701-44bfba80-affb-11eb-8a43-112b291aaf7f.png)
-![resim4](https://user-images.githubusercontent.com/48925129/117534706-47baab00-affb-11eb-8068-7939dfcbd1b4.png)
+![resim1](https://user-images.githubusercontent.com/48925129/117535425-5fdff980-affe-11eb-9b59-fe18fe440227.png)
+![resim-2](https://user-images.githubusercontent.com/48925129/117535427-61a9bd00-affe-11eb-9fe4-3d8adb4f7226.png)
+![resim3](https://user-images.githubusercontent.com/48925129/117535428-62daea00-affe-11eb-9e72-4660bda90ae9.png)
+![resim4](https://user-images.githubusercontent.com/48925129/117535429-640c1700-affe-11eb-98c5-4e80831e5ad8.png)
+
 
 
 
