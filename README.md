@@ -11,7 +11,17 @@
  
  ### Kullanıllan Google Apis
   - **Maps SDK for Android**
+  
    Yerel Android uygulamanız için haritalar.
+   
+  - **Directions API**
+
+   Birden çok yer arasındaki yol tarifi. Harita üzerine yol çizebilmek için kullanılmıştır.
+   
+   - **Geocoding API**
+   
+   Adresler ve coğrafi koordinatlar arasında dönüştürme yapın. Adreslerden enlem ve boylam çıkarmak için kullanılmıştır
+   
    
 ## Proje
 
