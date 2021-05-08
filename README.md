@@ -11,7 +11,7 @@
   
   >**Server olarak **MongoDb Realm** kullanıldığı için realm fonksiyonları(mongoDb sorguları) realm kısmında yazıldı. Sadece burda göstermek amaçlı **realm.js** altına bu fonksiyonlar eklenmiştir. Native tarafında bu fonksiyonların işlevi yoktur. 
  
- ### Kullanıllan Google Apis
+ ### Kullanılan Google Apis
   - **Maps SDK for Android**
   
    Yerel Android uygulamanız için haritalar.
