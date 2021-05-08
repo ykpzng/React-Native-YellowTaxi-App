@@ -7,7 +7,11 @@
   
   >**Bilgisayarınızda kurulu bir sanal makina olmalıdır. (Android Studio Virtual Device vs..)
   
-  >**Google Map verilerini kullabilmek için https://console.cloud.google.com/google/maps-apis adresinden **api key** alınmalıdır. Ana dizinde "epikey.js" dosyasına eklenmelidir
+  >**Google Map verilerini kullanabilmek için https://console.cloud.google.com/google/maps-apis adresinden **api key** alınmalıdır. Ana dizinde "epikey.js" dosyasına eklenmelidir.
+ 
+ ### Kullanıllan Google Apis
+  - **Maps SDK for Android**
+   Yerel Android uygulamanız için haritalar.
    
 ## Proje
 
