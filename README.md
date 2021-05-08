@@ -53,11 +53,11 @@ MongoDb ye Json formatında iki adet colection ekleniyor..
 
 ## Sorgular
 
-- **Tip-1 :**En fazla yolcu taşınan 5 günü ve toplam yolcu sayılarını listeler.
+- **Tip-1 :** En fazla yolcu taşınan 5 günü ve toplam yolcu sayılarını listeler.
 - 
-- **Tip-2 :**Seçilen iki tarih arasında seyahat edilen en az mesafeli 5 yolculuğu listeler.
+- **Tip-2 :** Seçilen iki tarih arasında seyahat edilen en az mesafeli 5 yolculuğu listeler.
 - 
-- **Tip-3 :**Seçilen bir tarihte en uzun seyahatin harita üzerinde yolunu çizer. Başlangıç ve bitiş konumlarını farklı renklerde marker ile gösterir ve konum adını yazar.
+- **Tip-3 :** Seçilen bir tarihte en uzun seyahatin harita üzerinde yolunu çizer. Başlangıç ve bitiş konumlarını farklı renklerde marker ile gösterir ve konum adını yazar.
 
 ![resim1](https://user-images.githubusercontent.com/48925129/117535425-5fdff980-affe-11eb-9b59-fe18fe440227.png)
 ![resim-2](https://user-images.githubusercontent.com/48925129/117535427-61a9bd00-affe-11eb-9fe4-3d8adb4f7226.png)
